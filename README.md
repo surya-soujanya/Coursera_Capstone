@@ -4,9 +4,6 @@ This repository contains the capstone project in the IBM Coursera course "Applie
 #### IBM-Coursera Data Science Project Code.ipynb
 This file contains the code used for the project with appropriate descriptions.
 
-#### IBM-Coursera Data Science Project Report.ipynb
-This file is the report of the project in a jupyter notebook.
-
 #### IBM-Coursera_Data_Science_Project_Report.pdf
 This file is the report of the project in a pdf.
 
